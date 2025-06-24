@@ -22,7 +22,7 @@ Automate your AWS security posture assessment and configuration with this powerf
 ### Installation
 ```powershell
 # Clone the repository
-git clone https://github.com/[yourusername]/AWS-Security-Automation-Tool.git
+git clone https://github.com/KhaledAssasa/AWS-Security-Automation-Tool
 
 # Run the tool
 cd AWS-Security-Automation-Tool
