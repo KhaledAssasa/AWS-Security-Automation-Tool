@@ -1,3 +1,5 @@
+⚡ A comprehensive PowerShell tool to automate AWS security assessments & configure 13+ critical security services with one click.
+
 # 🔐 AWS Security Automation Tool
 
 ![AWS Security](https://img.shields.io/badge/AWS-Security-orange) 
